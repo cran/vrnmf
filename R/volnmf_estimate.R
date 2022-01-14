@@ -75,6 +75,10 @@ volnmf_main <- function(vol, B = NULL, volnmf = NULL, n.comp = 3, n.reduce = n.c
     vol <- NULL
   }
 
+  if (!mutation.run){
+    rate.rec <- xcompl <- vol <- NULL
+  }
+  
   # matrix B
   if (is.null(B)){
     if (!is.null(volnmf)){
