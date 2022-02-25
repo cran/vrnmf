@@ -1,4 +1,4 @@
-21867b1258623e915a9a9a8b956af1e0 *DESCRIPTION
+4df15a66336879115db66c4c553cc157 *DESCRIPTION
 37688bae32130c3e946940e8b577844b *NAMESPACE
 b38b32832d3b23628610e6ce391c23a0 *R/anchor.R
 8dadb8c64faf98ccdd5471eefb8ae0e7 *R/infer_intensities.R
@@ -6,9 +6,9 @@ b38b32832d3b23628610e6ce391c23a0 *R/anchor.R
 57c0487b2a1ffeb75b588441d1b95759 *R/update_simplex.R
 8cfb7cbc2e15c1d281e2b3c4988780d5 *R/update_unitary.R
 c9857b638a6ec55c9cd604b2c4c9efa9 *R/update_volume.R
-3646fe0ace30558957772a746a05d05e *R/volnmf_estimate.R
+e24a403ac4ec8f0494dfb5ed91bca7af *R/volnmf_estimate.R
 8531cfca6be79f5cddc0f38a1a8a0b62 *R/vpreprocess.R
-c46d7b02f288f2204f789d86bc4dca32 *README.md
+caf1263862d13b25d7e75fb7e1ce7b88 *README.md
 0c11bf6f3aa0e4a53776607632eb5742 *man/AnchorFree.Rd
 f0f1db4b9b10858c6d70617faf2b65f5 *man/factor_intensities.Rd
 2f03895bc848f5ad1def7bb7377cd83d *man/infer_intensities.Rd
